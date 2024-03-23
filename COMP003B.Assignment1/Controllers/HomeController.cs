@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using COMP003B.Assignment1.Models;
 using Microsoft.AspNetCore.Mvc;
 
